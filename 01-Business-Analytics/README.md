@@ -1,2 +1,12 @@
-# Especializacion-Data-Analytics-Cenfotec
-Portafolio de proyectos y tareas del Técnico en Data Analytics (UCenfotec). Incluye análisis descriptivo con Python, limpieza de datos y métricas de negocio.
+# Módulo 01 - Business Analytics
+
+Este módulo incluye:
+
+- Investigación teórica
+- Laboratorio 2
+- Laboratorio 3
+- Proyecto Final
+
+Herramientas utilizadas:
+- Power BI
+- Análisis de datos
