@@ -1,0 +1,5 @@
+nombre= input("Ingresa tu nombre")
+Edad= input("Ingresa tu edad")
+ciudad= input("Ingresa donde vives")
+comida= input ("Ingresa tu comida favorita")
+print(f"¡hola me llamo{nombre},tengo{Edad}años,vivo en{ciudad}, y me encanta{comida}")
